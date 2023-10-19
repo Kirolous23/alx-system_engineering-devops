@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -ap |sort -n |tr '\n' ','
+ls -ap |sort |tr '\n' ','
+
